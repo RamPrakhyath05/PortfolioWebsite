@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* 
+.header{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.profile-pic{
+    width:180px;
+    border-radius:70%;
+}
+
+.sociallink{
+    background-color: black;
+    color:#fff;
+    padding: 5px 12px;
+    border-radius:20px;
+    font-weight:100px;
+    text-decoration: none;
+}
+
+.links{
+    justify-content: center;
+    align-items: center;
+    margin:10px 0;
+} */
