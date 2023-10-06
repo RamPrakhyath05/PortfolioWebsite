@@ -18,6 +18,13 @@ export default function Home() {
             className="rounded-lg border-2 border-black"
           />
         </div>
+        <Image
+            src="/profilepic.jpg"
+            alt="Profile-Pic"
+            width={200}
+            height={200}
+            className="rounded-full border-2 border-black"
+          />
         <div className="my-4 text-center">
           <h1 className="text-5xl font-bold text-gray-200 mb-2">
             Ram Prakhyath A
